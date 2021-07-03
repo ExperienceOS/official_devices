@@ -1,0 +1,16 @@
+[
+   {
+      "name": "AOiSPdev",
+      "country": "GB",
+      "github_username": "TTTT55",
+      "telegram_url": "http://t.me/AOiSPdev",
+      "devices": [
+         {
+            "codename": "pine",
+            "versions": [
+               "eleven",
+            ]
+         }
+      ]
+   }
+]

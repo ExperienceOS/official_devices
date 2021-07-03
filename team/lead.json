@@ -1,0 +1,14 @@
+{
+   "name": "AOiSPdev",
+   "country": "GB",
+   "github_username": "TTTT55",
+   "xda_url": "https://forum.xda-developers.com/m/aoispdev.8261418/",
+   "devices": [
+      {
+         "codename": "pine",
+         "versions": [
+            "eleven",
+         ]
+      }
+   ]
+}

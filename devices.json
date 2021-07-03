@@ -1,0 +1,18 @@
+[
+   {
+      "name": "Redmi 7A",
+      "brand": "Xiaomi",
+      "codename": "pine",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_pine",
+         "kernel_xiaomi_pine",
+         "vendor_xiaomi_pine"
+      ]
+   }
+]
